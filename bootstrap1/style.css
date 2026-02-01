@@ -1,0 +1,25 @@
+
+
+.logo-icon {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 24px;
+    color: #000000;
+}
+
+.object-fit-cover {
+    object-fit: cover;
+}
+
+
+.nav-link i {
+    color: #a8a8a8;
+}
+
+
+.nav-link.active i {
+    color: #3686ff !important;
+}
+
+
